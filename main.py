@@ -1,3 +1,6 @@
+# helloBot 1.0.0
+# by Bailey P
+# Web Warriors Group
 #This stores the user input as the variable name and then prints hello and then the variable called name
 def hello():
     print("What's your name?") # Asks the user for her/his name
